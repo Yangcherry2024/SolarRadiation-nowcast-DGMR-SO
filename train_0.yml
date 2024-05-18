@@ -1,0 +1,13 @@
+model_identification:
+  model_name: "sds_single_day_V0921_y03"
+  model_version: 0
+
+pre_trained_identification:
+  model_name: "0921"
+  model_version: "Version_1"
+
+model_architecture:
+  fusion: "Yes"
+
+model_params:
+  steps: 500000
