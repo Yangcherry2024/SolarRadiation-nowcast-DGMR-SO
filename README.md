@@ -1,0 +1,1 @@
+DGMR is originally from google DeepMind, which is developed for radar preciptation forecast, and we have data processing part and several of the hyper-parameters and used it for solar radiation forecast.
